@@ -1,0 +1,26 @@
+id: I3B871A64
+initial_creation_type: ebook
+source_metadata:
+  id: IBA-RON-07
+  title: ༄༅། །ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་རྣམ་བཤད་ལེགས་པར་འདོམས་པ་ལྷའི་རྔ་བོ་ཆེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག།།
+  authors: &id001
+  - མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག།།
+  sku: IBA-RON-07
+  cover: IBA-RON-07.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་རྣམ་བཤད་ལེགས་པར་འདོམས་པ་ལྷའི་རྔ་བོ་ཆེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: IBA-RON-07
+  cover: IBA-RON-07.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Yigchung
